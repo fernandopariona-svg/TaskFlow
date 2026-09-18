@@ -1,9 +1,9 @@
 # TaskFlow
 
-![GitHub last commit](https://img.shields.io/github/last-commit/usuario/taskflow)
-![GitHub issues](https://img.shields.io/github/issues/usuario/taskflow)
-![GitHub stars](https://img.shields.io/github/stars/usuario/taskflow)
-![GitHub forks](https://img.shields.io/github/forks/usuario/taskflow)
+![GitHub last commit](https://img.shields.io/github/last-commit/fernandopariona-svg/TaskFlow)
+![GitHub issues](https://img.shields.io/github/issues/fernandopariona-svg/TaskFlow)
+![GitHub stars](https://img.shields.io/github/stars/fernandopariona-svg/TaskFlow)
+![GitHub forks](https://img.shields.io/github/forks/fernandopariona-svg/TaskFlow)
 
 ## Aplicación para administrar tareas
 
